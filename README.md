@@ -11,7 +11,7 @@
 
 ## 增强使用方式
 windows下使用```at```建立定时任务,定时执行```run.bat```
-
+**此时需要使用绝对路径**
 创建文件 ```auto.bat``` , 内容如下:
 ```
 at 08:30 "F:\GitHub\sync_time\run.bat"
