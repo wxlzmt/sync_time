@@ -1,0 +1,27 @@
+{
+  "name": "sync_time",
+  "version": "1.0.0",
+  "description": "同步北京时间,同步更新到本地",
+  "main": "sync_time.js",
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxlzmt/sync_time.git"
+  },
+  "keywords": [
+    "sync",
+    "time"
+  ],
+  "author": "wxlzmt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wxlzmt/sync_time/issues"
+  },
+  "homepage": "https://github.com/wxlzmt/sync_time#readme"
+}

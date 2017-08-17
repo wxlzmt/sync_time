@@ -57,3 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+#自定义忽略文件--start
+
+
+#自定义忽略文件--end
+
+#---------分割线---------
+
+#自定义忽略文件夹--start
+.idea
+
+#自定义忽略文件夹--end
