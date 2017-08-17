@@ -58,7 +58,7 @@ typings/
 .env
 
 #自定义忽略文件--start
-
+package-lock.json
 
 #自定义忽略文件--end
 
