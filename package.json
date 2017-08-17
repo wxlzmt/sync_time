@@ -4,7 +4,8 @@
   "description": "同步北京时间,同步更新到本地",
   "main": "sync_time.js",
   "dependencies": {
-    "node-cmd": "^3.0.0"
+    "node-cmd": "^3.0.0",
+    "log4js": "^2.3.3"
   },
   "devDependencies": {},
   "scripts": {
