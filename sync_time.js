@@ -17,7 +17,7 @@ var http=require('http');
 
 var url = "http://api.k780.com:88/?app=life.time&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=json";
 
-logger.info("-----------开始----------------");
+logger.info("--------------更新操作系统时间开始!!!-----------------");
 
 //get 请求外网
 http.get(url,function(req,res){
