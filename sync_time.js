@@ -57,7 +57,7 @@ function sync(data){
 function update(ymd,time){
 	cmd.run("date "+ymd);
 	cmd.run("time "+time);
-	logger.info("--------------更新操作系统时间完成!!!-----------------");
+	logger.info("--------------更新操作系统时间完成!!!-----------------\n");
 }
 
 function getYMD(d){
